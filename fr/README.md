@@ -1,0 +1,3 @@
+- 👋 Salut, je suis @pradeep-ubuy
+- 👀 Je suis intéressé par le codage
+- 🌱 J'apprends actuellement reactjs
